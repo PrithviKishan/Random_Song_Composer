@@ -1,4 +1,4 @@
-# MumbleRap_song_generator
+# Random_Song_Generator
 
 ABOUT:
 
